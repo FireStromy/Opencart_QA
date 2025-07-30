@@ -1,0 +1,116 @@
+2025-07-29 18:13:58 INFO  TC_001_AccountRegistrationTest:92 - Chrome browser
+2025-07-29 18:14:03 INFO  TC_001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-29 18:14:03 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log message
+2025-07-29 18:14:05 INFO  TC_001_AccountRegistrationTest:25 - Clicked on MyAccount Link.. 
+2025-07-29 18:14:06 INFO  TC_001_AccountRegistrationTest:28 - Clicked on Register Link.. 
+2025-07-29 18:14:06 INFO  TC_001_AccountRegistrationTest:32 - Providing customer details...
+2025-07-29 18:14:08 INFO  TC_001_AccountRegistrationTest:45 - Validating expected message..
+2025-07-29 18:14:09 INFO  TC_001_AccountRegistrationTest:51 - Test passed
+2025-07-29 18:14:09 INFO  TC_001_AccountRegistrationTest:70 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-29 18:14:11 INFO  TC_002_LoginTest:92 - Chrome browser
+2025-07-29 18:14:15 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest  ****
+2025-07-29 18:14:15 DEBUG TC_002_LoginTest:17 - capturing application debug logs....
+2025-07-29 18:14:15 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2025-07-29 18:14:16 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2025-07-29 18:14:16 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2025-07-29 18:14:16 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2025-07-29 18:14:27 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-07-29 18:16:41 INFO  TC_001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-29 18:16:41 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log message
+2025-07-29 18:16:42 INFO  TC_001_AccountRegistrationTest:25 - Clicked on MyAccount Link.. 
+2025-07-29 18:16:43 INFO  TC_001_AccountRegistrationTest:28 - Clicked on Register Link.. 
+2025-07-29 18:16:43 INFO  TC_001_AccountRegistrationTest:32 - Providing customer details...
+2025-07-29 18:16:45 INFO  TC_001_AccountRegistrationTest:45 - Validating expected message..
+2025-07-29 18:16:45 INFO  TC_001_AccountRegistrationTest:51 - Test passed
+2025-07-29 18:16:45 INFO  TC_001_AccountRegistrationTest:70 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-29 18:16:52 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest  ****
+2025-07-29 18:16:52 DEBUG TC_002_LoginTest:17 - capturing application debug logs....
+2025-07-29 18:16:53 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2025-07-29 18:16:53 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2025-07-29 18:16:53 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2025-07-29 18:16:54 INFO  TC_002_LoginTest:34 - clicked on login button..
+2025-07-29 18:16:54 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-07-29 22:03:43 INFO  TC_001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-29 22:03:43 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log message
+2025-07-29 22:03:43 INFO  TC_001_AccountRegistrationTest:25 - Clicked on MyAccount Link.. 
+2025-07-29 22:03:45 INFO  TC_001_AccountRegistrationTest:28 - Clicked on Register Link.. 
+2025-07-29 22:03:45 INFO  TC_001_AccountRegistrationTest:32 - Providing customer details...
+2025-07-29 22:03:51 INFO  TC_001_AccountRegistrationTest:45 - Validating expected message..
+2025-07-29 22:03:51 INFO  TC_001_AccountRegistrationTest:51 - Test passed
+2025-07-29 22:03:51 INFO  TC_001_AccountRegistrationTest:70 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-29 22:04:03 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest  ****
+2025-07-29 22:04:03 DEBUG TC_002_LoginTest:17 - capturing application debug logs....
+2025-07-29 22:04:03 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2025-07-29 22:04:04 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2025-07-29 22:04:04 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2025-07-29 22:04:05 INFO  TC_002_LoginTest:34 - clicked on login button..
+2025-07-29 22:04:05 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-07-29 22:04:21 INFO  TC_001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-29 22:04:21 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log message
+2025-07-29 22:04:21 ERROR TC_001_AccountRegistrationTest:65 - Test failed: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.157, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:44857}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 138.0.7204.157, se:containerName: dbbbf2a109cc, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-07-29 22:04:21 INFO  TC_001_AccountRegistrationTest:70 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-29 22:09:37 INFO  TC_001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-29 22:09:37 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log message
+2025-07-29 22:09:37 INFO  TC_001_AccountRegistrationTest:25 - Clicked on MyAccount Link.. 
+2025-07-29 22:09:40 INFO  TC_001_AccountRegistrationTest:28 - Clicked on Register Link.. 
+2025-07-29 22:09:41 INFO  TC_001_AccountRegistrationTest:32 - Providing customer details...
+2025-07-29 22:10:00 INFO  TC_001_AccountRegistrationTest:45 - Validating expected message..
+2025-07-29 22:10:02 INFO  TC_001_AccountRegistrationTest:51 - Test passed
+2025-07-29 22:10:02 INFO  TC_001_AccountRegistrationTest:70 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-29 22:10:08 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest  ****
+2025-07-29 22:10:08 DEBUG TC_002_LoginTest:17 - capturing application debug logs....
+2025-07-29 22:10:09 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2025-07-29 22:10:10 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2025-07-29 22:10:10 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2025-07-29 22:10:10 INFO  TC_002_LoginTest:34 - clicked on login button..
+2025-07-29 22:10:11 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-07-29 22:11:20 INFO  TC_001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-29 22:11:20 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log message
+2025-07-29 22:11:24 INFO  TC_001_AccountRegistrationTest:25 - Clicked on MyAccount Link.. 
+2025-07-29 22:11:30 INFO  TC_001_AccountRegistrationTest:28 - Clicked on Register Link.. 
+2025-07-29 22:11:30 INFO  TC_001_AccountRegistrationTest:32 - Providing customer details...
+2025-07-29 22:11:55 INFO  TC_001_AccountRegistrationTest:45 - Validating expected message..
+2025-07-29 22:11:55 INFO  TC_001_AccountRegistrationTest:51 - Test passed
+2025-07-29 22:11:55 INFO  TC_001_AccountRegistrationTest:70 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-29 22:12:16 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest  ****
+2025-07-29 22:12:16 DEBUG TC_002_LoginTest:17 - capturing application debug logs....
+2025-07-29 22:12:16 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2025-07-29 22:12:18 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2025-07-29 22:12:18 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2025-07-29 22:12:20 INFO  TC_002_LoginTest:34 - clicked on login button..
+2025-07-29 22:12:22 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-07-29 22:24:04 INFO  TC_001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-29 22:24:04 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log message
+2025-07-29 22:24:05 INFO  TC_001_AccountRegistrationTest:25 - Clicked on MyAccount Link.. 
+2025-07-29 22:24:06 INFO  TC_001_AccountRegistrationTest:28 - Clicked on Register Link.. 
+2025-07-29 22:24:06 INFO  TC_001_AccountRegistrationTest:32 - Providing customer details...
+2025-07-29 22:24:12 INFO  TC_001_AccountRegistrationTest:45 - Validating expected message..
+2025-07-29 22:24:12 INFO  TC_001_AccountRegistrationTest:51 - Test passed
+2025-07-29 22:24:12 INFO  TC_001_AccountRegistrationTest:70 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-29 22:24:18 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest  ****
+2025-07-29 22:24:18 DEBUG TC_002_LoginTest:17 - capturing application debug logs....
+2025-07-29 22:24:18 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2025-07-29 22:24:19 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2025-07-29 22:24:19 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2025-07-29 22:24:20 INFO  TC_002_LoginTest:34 - clicked on login button..
+2025-07-29 22:24:20 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-07-29 22:24:45 INFO  TC_001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-29 22:24:45 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log message
+2025-07-29 22:24:45 INFO  TC_001_AccountRegistrationTest:25 - Clicked on MyAccount Link.. 
+2025-07-29 22:24:46 INFO  TC_001_AccountRegistrationTest:28 - Clicked on Register Link.. 
+2025-07-29 22:24:46 INFO  TC_001_AccountRegistrationTest:32 - Providing customer details...
+2025-07-29 22:24:48 INFO  TC_001_AccountRegistrationTest:45 - Validating expected message..
+2025-07-29 22:24:48 INFO  TC_001_AccountRegistrationTest:51 - Test passed
+2025-07-29 22:24:48 INFO  TC_001_AccountRegistrationTest:70 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-29 22:25:01 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest  ****
+2025-07-29 22:25:01 DEBUG TC_002_LoginTest:17 - capturing application debug logs....
+2025-07-29 22:25:05 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2025-07-29 22:25:07 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2025-07-29 22:25:07 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2025-07-29 22:25:08 INFO  TC_002_LoginTest:34 - clicked on login button..
+2025-07-29 22:25:08 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
